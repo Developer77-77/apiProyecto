@@ -1,0 +1,7 @@
+[20-Jun-2023 02:17:13 Europe/Berlin] PHP Warning:  require_once(models/MovieModel.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apiProyecto\index.php on line 13
+[20-Jun-2023 02:17:13 Europe/Berlin] PHP Stack trace:
+[20-Jun-2023 02:17:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\apiProyecto\index.php:0
+[20-Jun-2023 02:17:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'models/MovieModel.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apiProyecto\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apiProyecto\index.php on line 13
